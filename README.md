@@ -1,5 +1,7 @@
 # :soccer: Statistiques Collectives
 Ici, j'essaye de faire des #dataviz sur le Stade Rennais Football Club en cours de saison
+  
+:clipboard::arrow_upper_left: `Pour ceux qui ne sont pas familiers de Github, vous pouvez cliquer sur le menu pour ngaviguer dans le contenu`
 
 ## :dart: **Position des tirs**
 
