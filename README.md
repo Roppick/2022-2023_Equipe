@@ -22,3 +22,11 @@ Ici, j'essaye de faire des #dataviz sur le Stade Rennais Football Club en cours 
   - :blue_book: [Tweet](https://twitter.com/Roppick/status/1686339675449950209?s=20)
 
   ![Screenshot](https://github.com/Roppick/2022-2023_Equipe/blob/fe7bfb263fd76c4da20032407b8d415b91b69358/23-08-01_Position%20Tirs%20tent%C3%A9s_rogn%C3%A9.jpg)
+
+## 🔀 **Actions amenant les tirs**
+  
+### [_Infographie_](https://github.com/Roppick/2022-2023_Equipe/blob/df268d095b2bb0470b6cea81e0a1600c9e694492/23-08-06_R%C3%A9partition%20Tirs-Buts-xG_22-23_rogn%C3%A9.jpg)
+  - :bar_chart: [Understat](https://understat.com/team/Rennes/2022)
+  - :blue_book: [Tweet](https://twitter.com/Roppick/status/1688139436515565568?s=20)
+
+  ![Screenshot](https://github.com/Roppick/2022-2023_Equipe/blob/df268d095b2bb0470b6cea81e0a1600c9e694492/23-08-06_R%C3%A9partition%20Tirs-Buts-xG_22-23_rogn%C3%A9.jpg)
