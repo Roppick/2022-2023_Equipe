@@ -30,11 +30,3 @@ Ici, j'essaye de faire des #dataviz sur le Stade Rennais Football Club en cours 
   - :blue_book: [Tweet](https://twitter.com/Roppick/status/1688139436515565568?s=20)
 
   ![Screenshot](https://github.com/Roppick/2022-2023_Equipe/blob/df268d095b2bb0470b6cea81e0a1600c9e694492/23-08-06_R%C3%A9partition%20Tirs-Buts-xG_22-23_rogn%C3%A9.jpg)
-  
-## 👶👴 **Moyenne d'âge**
-  
-### [_Moyenne d'âge pondérée sur 10 saisons_](https://github.com/Roppick/2022-2023_Equipe/blob/df268d095b2bb0470b6cea81e0a1600c9e694492/23-08-06_R%C3%A9partition%20Tirs-Buts-xG_22-23_rogn%C3%A9.jpg)
-  - :bar_chart: [fbref](https://fbref.com/en/squads/b3072e00/Rennes-Stats)
-  - :blue_book: [Tweet](https://twitter.com/Roppick/status/1694752351897153873?s=20)
-  
-![Screenshot](https://github.com/Roppick/2022-2023_Equipe/blob/34c7b5f480c0e8991cecc070442e478d80d6907c/23-08-24_Age%20pond%C3%A9r%C3%A9.png)
