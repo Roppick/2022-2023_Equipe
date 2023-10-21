@@ -1,5 +1,8 @@
 # :soccer: Statistiques Collectives
-Ici, j'essaye de faire des #dataviz sur le Stade Rennais Football Club en cours de saison
+
+![Banière Collective 22/23](https://github.com/Roppick/2022-2023_Equipe/blob/14192be278e2b1174b8055320b51c97975a474f2/22-23_Photo%20Officielle.jpg)
+
+Ici, j'essaye de faire des #dataviz sur le Stade Rennais Football Club, saison 22/23
   
 :clipboard::arrow_upper_left: `Pour ceux qui ne sont pas familiers avec Github, vous pouvez cliquer sur le menu pour naviguer dans le contenu`
 
